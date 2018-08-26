@@ -1,7 +1,7 @@
 {
   "name": "vue-cli-plugin-vuex-module-generator",
   "description": "Vuex store module generator plugin for vue-cli 3",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "main": "index.js",
   "repository": {
     "type": "git",
